@@ -1,4 +1,4 @@
-# React Meetups – Next.js Project
+# Meetups – Next.js Project
 
 A modern, full-featured application built with Next.js and MongoDB that enables users to browse, add, and manage meetups. This project demonstrates advanced concepts like dynamic routing, static site generation (SSG), and modular component design for a robust, production-like web app experience.
 
